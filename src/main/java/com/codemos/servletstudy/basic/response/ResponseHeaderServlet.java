@@ -24,8 +24,8 @@ public class ResponseHeaderServlet extends HttpServlet {
 		response.setHeader("my-header", "hello");
 
 		// [ Header Convenience Methods ]
-		// content(response);
-		// cookie(response);
+		/* content(response); */
+		/* cookie(response); */
 		redirect(response);
 		
 		PrintWriter writer = response.getWriter();
