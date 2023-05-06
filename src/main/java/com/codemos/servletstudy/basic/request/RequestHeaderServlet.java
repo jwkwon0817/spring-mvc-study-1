@@ -17,6 +17,7 @@ public class RequestHeaderServlet extends HttpServlet {
 		printStartLine(request);
 		printHeaders(request);
 		printHeaderUtils(request);
+		printEtc(request);
 	}
 	
 	private static void printStartLine(HttpServletRequest request) {
@@ -80,6 +81,23 @@ public class RequestHeaderServlet extends HttpServlet {
 		System.out.println("request.getContentLength() = " + request.getContentLength());
 		System.out.println("request.getCharacterEncoding() = " + request.getCharacterEncoding());
 		System.out.println("--- Header Convenience Inquiry end ---");
+		System.out.println();
+	}
+	
+	private void printEtc(HttpServletRequest request) {
+		System.out.println("--- Etc start ---");
+		
+		System.out.println("[ Remote Convenience Inquiry ]");
+		System.out.println("request.getRemoteHost() = " + request.getRemoteHost());
+		System.out.println("request.getRemoteAddr() = " + request.getRemoteAddr());
+		System.out.println("request.getRemotePort() = " + request.getRemotePort());
+		System.out.println();
+		
+		System.out.println("[ Local Convenience Inquiry ]");
+		System.out.println("request.getLocalName() = " + request.getLocalName());
+		System.out.println("request.getLocalAddr() = " + request.getLocalAddr());
+		System.out.println("request.getLocalPort() = " + request.getLocalPort());
+		System.out.println("--- Etc end ---");
 		System.out.println();
 	}
 }
