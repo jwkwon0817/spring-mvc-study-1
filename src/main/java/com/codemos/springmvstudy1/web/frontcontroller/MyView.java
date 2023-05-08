@@ -1,4 +1,4 @@
-package com.codemos.servletstudy.web.frontcontroller;
+package com.codemos.springmvstudy1.web.frontcontroller;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
