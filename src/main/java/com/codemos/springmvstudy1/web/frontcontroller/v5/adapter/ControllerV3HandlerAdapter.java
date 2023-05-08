@@ -1,8 +1,8 @@
-package com.codemos.servletstudy.web.frontcontroller.v5.adapter;
+package com.codemos.springmvstudy1.web.frontcontroller.v5.adapter;
 
-import com.codemos.servletstudy.web.frontcontroller.ModelView;
-import com.codemos.servletstudy.web.frontcontroller.v3.ControllerV3;
-import com.codemos.servletstudy.web.frontcontroller.v5.MyHandlerAdapter;
+import com.codemos.springmvstudy1.web.frontcontroller.ModelView;
+import com.codemos.springmvstudy1.web.frontcontroller.v3.ControllerV3;
+import com.codemos.springmvstudy1.web.frontcontroller.v5.MyHandlerAdapter;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
