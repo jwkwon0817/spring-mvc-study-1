@@ -1,4 +1,4 @@
-package com.codemos.servletstudy.basic.response;
+package com.codemos.springmvstudy1.basic.response;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
