@@ -1,7 +1,7 @@
-package com.codemos.servletstudy.web.frontcontroller.v2.controller;
+package com.codemos.springmvstudy1.web.frontcontroller.v2.controller;
 
-import com.codemos.servletstudy.web.frontcontroller.MyView;
-import com.codemos.servletstudy.web.frontcontroller.v2.ControllerV2;
+import com.codemos.springmvstudy1.web.frontcontroller.MyView;
+import com.codemos.springmvstudy1.web.frontcontroller.v2.ControllerV2;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
