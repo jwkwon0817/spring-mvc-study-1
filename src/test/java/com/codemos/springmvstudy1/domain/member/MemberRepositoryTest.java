@@ -1,6 +1,5 @@
-package com.codemos.servletstudy.domain.member;
+package com.codemos.springmvstudy1.domain.member;
 
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
