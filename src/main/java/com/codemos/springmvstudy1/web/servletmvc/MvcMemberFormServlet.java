@@ -1,4 +1,4 @@
-package com.codemos.servletstudy.web.servletmvc;
+package com.codemos.springmvstudy1.web.servletmvc;
 
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
