@@ -1,10 +1,10 @@
-package com.codemos.servletstudy;
+package com.codemos.springmvstudy1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServletStudyApplicationTests {
+class SpringMvcStudy1ApplicationTest {
 	
 	@Test
 	void contextLoads() {
