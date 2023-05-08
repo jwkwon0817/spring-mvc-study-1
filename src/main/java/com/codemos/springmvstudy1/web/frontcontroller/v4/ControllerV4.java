@@ -1,4 +1,4 @@
-package com.codemos.servletstudy.web.frontcontroller.v4;
+package com.codemos.springmvstudy1.web.frontcontroller.v4;
 
 import java.util.Map;
 
