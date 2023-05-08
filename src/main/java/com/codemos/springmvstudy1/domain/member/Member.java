@@ -1,4 +1,4 @@
-package com.codemos.servletstudy.domain.member;
+package com.codemos.springmvstudy1.domain.member;
 
 import lombok.Getter;
 import lombok.Setter;
