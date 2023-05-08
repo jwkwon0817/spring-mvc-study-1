@@ -1,4 +1,4 @@
-package com.codemos.servletstudy.basic.request;
+package com.codemos.springmvstudy1.basic.request;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;
