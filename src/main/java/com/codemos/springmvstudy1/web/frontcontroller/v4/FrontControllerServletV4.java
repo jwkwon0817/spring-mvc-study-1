@@ -1,9 +1,9 @@
-package com.codemos.servletstudy.web.frontcontroller.v4;
+package com.codemos.springmvstudy1.web.frontcontroller.v4;
 
-import com.codemos.servletstudy.web.frontcontroller.MyView;
-import com.codemos.servletstudy.web.frontcontroller.v4.controller.MemberFormControllerV4;
-import com.codemos.servletstudy.web.frontcontroller.v4.controller.MemberListControllerV4;
-import com.codemos.servletstudy.web.frontcontroller.v4.controller.MemberSaveControllerV4;
+import com.codemos.springmvstudy1.web.frontcontroller.MyView;
+import com.codemos.springmvstudy1.web.frontcontroller.v4.controller.MemberFormControllerV4;
+import com.codemos.springmvstudy1.web.frontcontroller.v4.controller.MemberListControllerV4;
+import com.codemos.springmvstudy1.web.frontcontroller.v4.controller.MemberSaveControllerV4;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
