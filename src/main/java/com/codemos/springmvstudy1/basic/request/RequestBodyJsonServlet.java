@@ -1,6 +1,6 @@
-package com.codemos.servletstudy.basic.request;
+package com.codemos.springmvstudy1.basic.request;
 
-import com.codemos.servletstudy.basic.HelloData;
+import com.codemos.springmvstudy1.basic.HelloData;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;
