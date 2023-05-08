@@ -1,9 +1,9 @@
-package com.codemos.servletstudy.web.frontcontroller.v3.controller;
+package com.codemos.springmvstudy1.web.frontcontroller.v3.controller;
 
-import com.codemos.servletstudy.domain.member.Member;
-import com.codemos.servletstudy.domain.member.MemberRepository;
-import com.codemos.servletstudy.web.frontcontroller.ModelView;
-import com.codemos.servletstudy.web.frontcontroller.v3.ControllerV3;
+import com.codemos.springmvstudy1.domain.member.Member;
+import com.codemos.springmvstudy1.domain.member.MemberRepository;
+import com.codemos.springmvstudy1.web.frontcontroller.ModelView;
+import com.codemos.springmvstudy1.web.frontcontroller.v3.ControllerV3;
 
 import java.util.List;
 import java.util.Map;
