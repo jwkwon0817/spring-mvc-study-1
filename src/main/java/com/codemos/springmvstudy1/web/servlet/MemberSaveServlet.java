@@ -1,7 +1,7 @@
-package com.codemos.servletstudy.web.servlet;
+package com.codemos.springmvstudy1.web.servlet;
 
-import com.codemos.servletstudy.domain.member.Member;
-import com.codemos.servletstudy.domain.member.MemberRepository;
+import com.codemos.springmvstudy1.domain.member.Member;
+import com.codemos.springmvstudy1.domain.member.MemberRepository;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
