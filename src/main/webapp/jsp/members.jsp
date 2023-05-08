@@ -1,6 +1,6 @@
-<%@ page import="com.codemos.servletstudy.domain.member.MemberRepository" %>
+<%@ page import="com.codemos.springmvstudy1.domain.member.MemberRepository" %>
 <%@ page import="java.util.List" %>
-<%@ page import="com.codemos.servletstudy.domain.member.Member" %>
+<%@ page import="com.codemos.springmvstudy1.domain.member.Member" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <%
