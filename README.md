@@ -10,9 +10,6 @@ The "Spring MVC - Part 1" course is designed to provide an introduction to the f
 - Servlet
 - Servlet, JSP, MVC Pattern
 - Creating an MVC Framework
-- Spring MVC - Understanding the Structure
-- Spring MVC - Basic Functionality
-- Creating Web Pages with Spring MVC
 
 The course consists of video lectures and coding exercises. Sample code is provided for each section of the course.
 
